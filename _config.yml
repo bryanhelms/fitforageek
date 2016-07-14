@@ -70,5 +70,5 @@ theme: hexo-theme-icarus
 deploy:
   type: git
   repo: git@github.com:bryanhelms/fitforageek.git
-  branch: master
+  branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
